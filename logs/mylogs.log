@@ -1,0 +1,625 @@
+20240219 23:56:43 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - RegressionTest has started....................
+20240219 23:56:43 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 23:56:45 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240219 23:56:45 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240219 23:56:46 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240219 23:56:46 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240219 23:56:46 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240219 23:56:49 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240219 23:56:51 INFO  [main] base.BasePage BasePage.java31 - data is entered in forgotPwdUN textbox
+20240219 23:56:54 INFO  [main] base.BasePage BasePage.java42 - cntBtnbutton is clicked
+20240219 23:56:56 INFO  [main] base.BasePage BasePage.java52 - text is extracted from chkEmailText
+20240219 23:57:00 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4a.......test execution completed with success........
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240219 23:57:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - RegressionTest has ended....................
+20240220 00:30:44 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:30:45 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:30:46 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:30:46 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:30:48 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:30:48 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:30:48 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java102 - ******login_to_firebase automation script started***********
+20240220 00:30:51 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:30:54 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:30:54 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:30:54 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:30:54 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:30:54 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:30:55 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:30:55 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:30:57 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:30:57 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:30:57 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java125 - ******login_to_firebase automation script started***********
+20240220 00:30:59 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:31:01 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:31:03 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:31:05 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4b.......test execution completed with failure........
+20240220 00:31:06 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:31:06 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:31:06 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:31:06 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:31:07 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:31:07 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:31:09 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:31:09 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:31:09 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 00:31:11 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:31:13 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 00:31:15 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:31:17 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - loginErrorMessage1.......test execution completed with failure........
+20240220 00:31:17 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:31:18 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:31:18 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:31:18 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:31:19 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:31:19 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:31:21 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:31:21 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:31:21 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java47 - ******login_to_firebase automation script started***********
+20240220 00:31:23 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:31:25 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:31:33 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:31:33 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 00:31:37 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:31:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 00:31:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:31:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 00:38:20 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:38:20 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:38:22 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:38:22 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:38:23 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:38:23 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:38:23 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java102 - ******login_to_firebase automation script started***********
+20240220 00:38:26 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:38:29 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:38:29 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:38:29 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:38:29 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:38:29 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:38:30 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:38:30 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:38:32 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:38:32 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:38:32 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java125 - ******login_to_firebase automation script started***********
+20240220 00:38:34 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:38:36 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:38:39 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:38:41 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4b.......test execution completed with failure........
+20240220 00:38:41 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:38:41 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:38:41 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:38:41 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:38:42 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:38:42 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:38:44 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:38:44 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:38:44 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 00:38:46 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:38:48 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 00:38:51 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:38:53 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - loginErrorMessage1.......test execution completed with failure........
+20240220 00:38:53 INFO  [main] base.BaseTest BaseTest.java128 - went wrong when capturing the screen
+20240220 00:38:53 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:38:53 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:38:53 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:38:54 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:38:54 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:38:56 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:38:56 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:38:56 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java47 - ******login_to_firebase automation script started***********
+20240220 00:38:59 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:39:01 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:39:05 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:39:11 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 00:39:15 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:39:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 00:39:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:39:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 00:44:52 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - Default test has started....................
+20240220 00:44:52 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:44:54 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:44:54 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:44:56 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:44:56 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:44:56 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java102 - ******login_to_firebase automation script started***********
+20240220 00:44:59 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:45:01 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:45:01 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:45:01 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:45:01 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:45:01 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:45:02 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:45:02 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:45:04 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:45:04 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:45:04 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java125 - ******login_to_firebase automation script started***********
+20240220 00:45:06 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:45:08 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:45:11 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:45:13 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 00:45:17 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:45:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 00:45:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:45:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:45:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:45:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - Default test has ended....................
+20240220 00:46:51 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:46:51 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:46:53 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:46:53 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:46:55 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:46:55 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:46:55 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java102 - ******login_to_firebase automation script started***********
+20240220 00:46:57 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:46:59 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:46:59 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:46:59 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:46:59 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:46:59 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:47:00 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:47:01 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:47:02 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:47:02 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:47:03 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java125 - ******login_to_firebase automation script started***********
+20240220 00:47:05 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:47:07 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:47:09 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:47:11 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 00:47:15 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:47:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 00:47:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:47:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:47:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:47:15 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 00:50:04 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:50:04 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:50:05 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:50:05 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:50:07 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:50:07 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:50:07 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java102 - ******login_to_firebase automation script started***********
+20240220 00:50:10 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:50:12 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:50:13 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:50:13 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:50:13 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:50:13 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:50:14 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:50:14 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:50:14 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:50:14 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:50:14 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java125 - ******login_to_firebase automation script started***********
+20240220 00:50:16 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:50:18 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:50:21 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:50:23 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 00:50:27 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 00:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 00:53:36 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:53:36 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:53:38 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:53:38 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:53:39 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:53:39 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:53:39 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 00:53:42 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:53:44 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:53:44 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:53:44 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:53:44 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:53:44 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:53:45 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:53:45 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:53:47 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:53:47 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:53:47 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 00:53:49 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:53:51 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:53:54 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:53:56 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 00:54:00 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 00:54:00 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:54:00 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:54:00 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:54:01 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:54:01 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:54:01 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:54:01 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:54:01 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 00:54:04 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:54:06 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 00:54:08 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:54:10 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - loginErrorMessage1.......test execution completed with failure........
+20240220 00:54:11 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:54:11 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:54:11 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:54:11 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:54:12 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:54:12 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:54:14 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:54:14 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:54:14 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 00:54:16 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:54:18 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:54:22 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:54:25 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 00:54:29 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 00:54:29 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:54:29 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:54:29 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:54:30 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:54:30 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:54:31 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:54:31 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:54:31 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 00:54:33 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:54:35 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:54:37 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 00:54:44 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:54:46 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 00:54:49 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 00:54:51 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 00:54:55 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - rememberMe3.......test execution completed with success........
+20240220 00:54:55 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:54:55 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:54:55 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 00:57:30 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 00:57:30 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:57:32 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:57:32 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:57:32 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:57:32 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 00:57:32 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 00:57:35 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 00:57:37 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java33 - forgotPassword4a.......test execution completed with failure........
+20240220 00:57:38 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 00:57:38 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:57:38 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:57:38 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:57:39 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:57:39 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:57:41 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:57:41 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 00:57:41 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 00:57:43 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:57:45 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:57:48 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:57:50 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 00:57:54 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 00:57:54 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:57:54 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:57:54 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:57:55 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:57:55 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:57:57 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:57:57 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 00:57:57 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 00:57:59 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:58:01 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 00:58:04 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:58:06 INFO  [main] base.BasePage BasePage.java52 - text is extracted from error msg
+20240220 00:58:10 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginErrorMessage1.......test execution completed with success........
+20240220 00:58:10 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:58:10 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:58:10 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:58:11 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:58:11 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:58:12 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:58:12 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 00:58:12 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 00:58:14 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:58:16 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:58:24 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:58:24 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 00:58:28 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 00:58:28 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:58:28 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:58:28 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 00:58:29 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 00:58:29 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 00:58:31 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 00:58:31 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 00:58:31 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 00:58:33 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 00:58:35 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 00:58:37 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 00:58:46 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 00:58:48 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 00:58:50 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 00:58:52 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 00:58:56 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - rememberMe3.......test execution completed with success........
+20240220 00:58:56 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 00:58:56 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 00:58:56 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 01:03:03 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 01:03:03 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:03:04 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:03:05 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:03:06 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:03:06 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 01:03:06 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 01:03:08 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 01:03:11 INFO  [main] base.BasePage BasePage.java31 - data is entered in forgotPwdUN textbox
+20240220 01:03:13 INFO  [main] base.BasePage BasePage.java42 - cntBtnbutton is clicked
+20240220 01:03:15 INFO  [main] base.BasePage BasePage.java52 - text is extracted from chkEmailText
+20240220 01:03:19 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4a.......test execution completed with success........
+20240220 01:03:19 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:03:19 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:03:19 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:03:20 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:03:20 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:03:21 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:03:21 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 01:03:21 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 01:03:23 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:03:25 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:03:27 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:03:30 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 01:03:34 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 01:03:34 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:03:34 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:03:34 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:03:35 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:03:35 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:03:37 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:03:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 01:03:37 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 01:03:39 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:03:41 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 01:03:44 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:03:46 INFO  [main] base.BasePage BasePage.java52 - text is extracted from error msg
+20240220 01:03:50 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginErrorMessage1.......test execution completed with success........
+20240220 01:03:50 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:03:50 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:03:50 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:03:51 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:03:51 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:03:52 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:03:52 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 01:03:52 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 01:03:54 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:03:56 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:04:00 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:04:02 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 01:04:06 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 01:04:06 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:04:06 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:04:06 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:04:07 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:04:07 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:04:09 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:04:09 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 01:04:09 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 01:04:11 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:04:13 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:04:15 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 01:04:19 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:04:22 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 01:04:24 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 01:04:26 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 01:04:30 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - rememberMe3.......test execution completed with success........
+20240220 01:04:30 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:04:30 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:04:30 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 01:45:32 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 01:45:33 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:45:34 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:45:34 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:45:36 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:45:36 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 01:45:36 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 01:45:39 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 01:45:41 INFO  [main] base.BasePage BasePage.java31 - data is entered in forgotPwdUN textbox
+20240220 01:45:44 INFO  [main] base.BasePage BasePage.java42 - cntBtnbutton is clicked
+20240220 01:45:46 INFO  [main] base.BasePage BasePage.java52 - text is extracted from chkEmailText
+20240220 01:45:50 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4a.......test execution completed with success........
+20240220 01:45:50 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:45:50 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:45:50 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:45:51 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:45:52 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:45:53 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:45:53 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 01:45:53 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 01:45:55 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:45:57 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:46:00 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:46:02 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 01:46:06 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 01:46:06 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:46:06 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:46:06 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:46:08 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:46:08 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:46:09 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:46:09 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 01:46:09 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 01:46:12 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:46:14 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 01:46:16 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:46:19 INFO  [main] base.BasePage BasePage.java52 - text is extracted from error msg
+20240220 01:46:23 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginErrorMessage1.......test execution completed with success........
+20240220 01:46:24 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:46:24 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:46:24 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:46:27 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:46:27 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:46:29 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:46:29 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 01:46:29 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 01:46:31 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:46:33 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:46:38 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:46:44 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 01:46:48 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 01:46:49 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:46:49 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:46:49 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:46:51 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:46:51 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:46:52 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:46:52 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 01:46:52 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 01:46:55 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:46:57 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:46:59 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 01:47:12 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:47:14 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 01:47:16 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 01:47:24 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 01:47:28 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - rememberMe3.......test execution completed with success........
+20240220 01:47:28 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:47:28 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:47:28 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 01:49:50 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java66 - POMTest has started....................
+20240220 01:49:50 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:49:52 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:49:52 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:49:53 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:49:53 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4a.......test execution started........
+20240220 01:49:53 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 01:49:56 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 01:49:58 INFO  [main] base.BasePage BasePage.java31 - data is entered in forgotPwdUN textbox
+20240220 01:50:01 INFO  [main] base.BasePage BasePage.java42 - cntBtnbutton is clicked
+20240220 01:50:03 INFO  [main] base.BasePage BasePage.java52 - text is extracted from chkEmailText
+20240220 01:50:07 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4a.......test execution completed with success........
+20240220 01:50:07 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:50:07 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:50:07 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:50:09 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:50:09 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:50:11 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:50:11 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - forgotPassword4b.......test execution started........
+20240220 01:50:11 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 01:50:13 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:50:15 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:50:18 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:50:20 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 01:50:24 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - forgotPassword4b.......test execution completed with success........
+20240220 01:50:24 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:50:24 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:50:24 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:50:25 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:50:26 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:50:27 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:50:27 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginErrorMessage1.......test execution started........
+20240220 01:50:27 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 01:50:29 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:50:31 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 01:50:33 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:50:35 INFO  [main] base.BasePage BasePage.java52 - text is extracted from error msg
+20240220 01:50:39 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginErrorMessage1.......test execution completed with success........
+20240220 01:50:40 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:50:40 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:50:40 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:50:42 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:50:43 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:50:45 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:50:45 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - loginSalesforce2.......test execution started........
+20240220 01:50:45 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 01:50:47 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:50:49 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:50:59 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:50:59 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 01:51:03 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - loginSalesforce2.......test execution completed with success........
+20240220 01:51:03 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:51:03 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:51:03 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 01:51:06 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 01:51:06 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 01:51:08 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 01:51:08 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java19 - rememberMe3.......test execution started........
+20240220 01:51:08 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 01:51:11 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 01:51:13 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 01:51:15 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 01:51:21 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 01:51:27 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 01:51:30 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 01:51:32 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 01:51:36 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java26 - rememberMe3.......test execution completed with success........
+20240220 01:51:36 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 01:51:36 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 01:51:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java72 - POMTest has ended....................
+20240220 15:37:04 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java80 - POMSuite has started....................
+20240220 15:37:04 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java68 - POMTest has started....................
+20240220 15:37:04 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 15:37:07 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 15:37:07 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 15:37:09 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 15:37:09 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java21 - forgotPassword4a.......test execution started........
+20240220 15:37:09 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java99 - ******login_to_firebase automation script started***********
+20240220 15:37:11 INFO  [main] base.BasePage BasePage.java42 - forgotPwdLinkbutton is clicked
+20240220 15:37:13 INFO  [main] base.BasePage BasePage.java31 - data is entered in forgotPwdUN textbox
+20240220 15:37:16 INFO  [main] base.BasePage BasePage.java42 - cntBtnbutton is clicked
+20240220 15:37:18 INFO  [main] base.BasePage BasePage.java52 - text is extracted from chkEmailText
+20240220 15:37:22 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java28 - forgotPassword4a.......test execution completed with success........
+20240220 15:37:22 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 15:37:22 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 15:37:22 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 15:37:23 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 15:37:23 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 15:37:25 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 15:37:25 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java21 - forgotPassword4b.......test execution started........
+20240220 15:37:25 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java121 - ******login_to_firebase automation script started***********
+20240220 15:37:27 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 15:37:29 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 15:37:31 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 15:37:33 INFO  [main] base.BasePage BasePage.java52 - text is extracted from wrngEmailErr
+20240220 15:37:37 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java28 - forgotPassword4b.......test execution completed with success........
+20240220 15:37:38 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 15:37:38 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 15:37:38 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 15:37:39 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 15:37:39 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 15:37:41 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 15:37:41 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java21 - loginErrorMessage1.......test execution started........
+20240220 15:37:41 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java24 - ******AutomationScriptsLogInTest started***********
+20240220 15:37:43 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 15:37:45 INFO  [main] base.BasePage BasePage.java73 - password is cleared
+20240220 15:37:47 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 15:37:50 INFO  [main] base.BasePage BasePage.java52 - text is extracted from error msg
+20240220 15:37:54 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java28 - loginErrorMessage1.......test execution completed with success........
+20240220 15:37:54 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 15:37:54 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 15:37:54 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 15:37:55 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 15:37:55 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 15:37:56 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 15:37:56 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java21 - loginSalesforce2.......test execution started........
+20240220 15:37:56 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java46 - ******login_to_firebase automation script started***********
+20240220 15:37:59 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 15:38:01 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 15:38:13 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 15:38:13 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user id
+20240220 15:38:17 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java28 - loginSalesforce2.......test execution completed with success........
+20240220 15:38:17 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 15:38:17 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 15:38:17 INFO  [main] base.BaseTest BaseTest.java42 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 15:38:18 INFO  [main] base.BaseTest BaseTest.java61 - browser instance chrome created.
+20240220 15:38:18 INFO  [main] base.BaseTest BaseTest.java64 - window is maximized
+20240220 15:38:20 INFO  [main] base.BaseTest BaseTest.java100 - https://tekarch-ea-dev-ed.develop.my.salesforce.com/is entered
+20240220 15:38:20 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java21 - rememberMe3.......test execution started........
+20240220 15:38:20 INFO  [main] automationTests.AutomationScriptsLogInTest AutomationScriptsLogInTest.java69 - ******login_to_firebase automation script started***********
+20240220 15:38:22 INFO  [main] base.BasePage BasePage.java31 - data is entered in Username textbox
+20240220 15:38:25 INFO  [main] base.BasePage BasePage.java31 - data is entered in password field textbox
+20240220 15:38:27 INFO  [main] base.BasePage BasePage.java91 - rememberMeChkcheck button is selected
+20240220 15:38:34 INFO  [main] base.BasePage BasePage.java42 - login buttonbutton is clicked
+20240220 15:38:37 INFO  [main] base.BasePage BasePage.java42 - userNavLabelbutton is clicked
+20240220 15:38:39 INFO  [main] base.BasePage BasePage.java42 - logoutbutton is clicked
+20240220 15:38:41 INFO  [main] base.BasePage BasePage.java52 - text is extracted from user email
+20240220 15:38:43 ERROR [main] utilities.POMListenerUtility POMListenerUtility.java35 - rememberMe3.......test execution completed with failure........
+20240220 15:38:44 INFO  [main] base.BaseTest BaseTest.java123 - captured the screen
+20240220 15:38:44 INFO  [main] base.BaseTest BaseTest.java106 - browser instance closed
+20240220 15:38:44 INFO  [main] base.BaseTest BaseTest.java52 - ******tearDownAfterTestMethod executed***********
+20240220 15:38:44 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java74 - POMTest has ended....................
+20240220 15:38:45 INFO  [main] utilities.POMListenerUtility POMListenerUtility.java86 - POMSuite has ended....................

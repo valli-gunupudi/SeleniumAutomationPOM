@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="POMSuite">
+	<listeners>
+		<listener class-name="com.tekarch.POM.utilities.POMListenerUtility" />
+	</listeners>
+  <test name="POMTest">
+	  <parameter name="browserName" value="chrome"></parameter>
+    <classes>
+      <class name="com.tekarch.POM.automationTests.AutomationScriptsLogInTest"/>
+    </classes>
+  </test> 
+</suite> 

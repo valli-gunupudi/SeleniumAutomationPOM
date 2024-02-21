@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-20T01:49:50 PST" name="POMSuite" finished-at="2024-02-20T01:51:36 PST" duration-ms="106917">
+    <groups>
+    </groups>
+    <test started-at="2024-02-20T01:49:50 PST" name="POMTest" finished-at="2024-02-20T01:51:36 PST" duration-ms="106917">
+      <class name="com.tekarch.POM.automationTests.AutomationScriptsLogInTest">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:49:50 PST" name="setUpBeforeMethod" finished-at="2024-02-20T01:49:53 PST" duration-ms="2984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.forgotPassword4a(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotPassword4a(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:49:53 PST" name="forgotPassword4a" finished-at="2024-02-20T01:50:07 PST" duration-ms="14154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword4a -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:07 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T01:50:07 PST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:07 PST" name="setUpBeforeMethod" finished-at="2024-02-20T01:50:11 PST" duration-ms="3726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.forgotPassword4b(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotPassword4b(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:11 PST" name="forgotPassword4b" finished-at="2024-02-20T01:50:24 PST" duration-ms="12822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword4b -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:24 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T01:50:24 PST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:24 PST" name="setUpBeforeMethod" finished-at="2024-02-20T01:50:27 PST" duration-ms="2957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.loginErrorMessage1(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginErrorMessage1(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:27 PST" name="loginErrorMessage1" finished-at="2024-02-20T01:50:39 PST" duration-ms="12769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessage1 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:39 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T01:50:40 PST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:40 PST" name="setUpBeforeMethod" finished-at="2024-02-20T01:50:45 PST" duration-ms="5039" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.loginSalesforce2(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSalesforce2(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:50:45 PST" name="loginSalesforce2" finished-at="2024-02-20T01:51:03 PST" duration-ms="18197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSalesforce2 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:51:03 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T01:51:03 PST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:51:03 PST" name="setUpBeforeMethod" finished-at="2024-02-20T01:51:08 PST" duration-ms="4829" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.rememberMe3(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="rememberMe3(java.lang.String)[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:51:08 PST" name="rememberMe3" finished-at="2024-02-20T01:51:36 PST" duration-ms="28579" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberMe3 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.tekarch.POM.automationTests.AutomationScriptsLogInTest@1cdc4c27]" started-at="2024-02-20T01:51:36 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T01:51:36 PST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.tekarch.POM.automationTests.AutomationScriptsLogInTest -->
+    </test> <!-- POMTest -->
+  </suite> <!-- POMSuite -->
+</testng-results>

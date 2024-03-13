@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-POMSuite" class="navigator-link">
-              <span class="suite-name border-failed">POMSuite</span>
+              <span class="suite-name border-passed">POMSuite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -92,21 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">5 methods, 1 failed,   4 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-POMSuite" class="hide-methods failed suite-POMSuite"> (hide)</a> <!-- hide-methods failed suite-POMSuite -->
-                      <a href="#" panel-name="suite-POMSuite" class="show-methods failed suite-POMSuite"> (show)</a> <!-- show-methods failed suite-POMSuite -->
-                    </span>
-                    <div class="method-list-content failed suite-POMSuite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-POMSuite" title="com.tekarch.POM.automationTests.AutomationScriptsLogInTest" class="method navigator-link" hash-for-method="rememberMe3(chrome)">rememberMe3(chrome)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-POMSuite -->
+                    <span class="method-stats">5 methods,   5 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -135,6 +121,11 @@
                         <a href="#" panel-name="suite-POMSuite" title="com.tekarch.POM.automationTests.AutomationScriptsLogInTest" class="method navigator-link" hash-for-method="loginSalesforce2(chrome)">loginSalesforce2(chrome)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-POMSuite" title="com.tekarch.POM.automationTests.AutomationScriptsLogInTest" class="method navigator-link" hash-for-method="rememberMe3(chrome)">rememberMe3(chrome)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                     </div> <!-- method-list-content passed suite-POMSuite -->
                   </li>
                 </ul>
@@ -147,27 +138,6 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-POMSuite" class="panel POMSuite">
-          <div class="suite-POMSuite-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.tekarch.POM.automationTests.AutomationScriptsLogInTest</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="rememberMe3(chrome)">
-                  </a> <!-- rememberMe3(chrome) -->
-                  <span class="method-name">rememberMe3</span>
-                  <span class="parameters">(chrome)</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [valli@boxfree.com] but found []
-	at com.tekarch.POM.automationTests.AutomationScriptsLogInTest.rememberMe3(AutomationScriptsLogInTest.java:93)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 33 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-POMSuite-class-failed -->
           <div class="suite-POMSuite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -203,6 +173,14 @@
                   <a name="loginSalesforce2(chrome)">
                   </a> <!-- loginSalesforce2(chrome) -->
                   <span class="method-name">loginSalesforce2</span>
+                  <span class="parameters">(chrome)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="rememberMe3(chrome)">
+                  </a> <!-- rememberMe3(chrome) -->
+                  <span class="method-name">rememberMe3</span>
                   <span class="parameters">(chrome)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
@@ -268,23 +246,23 @@ data.addRows(5);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'rememberMe3')
 data.setCell(0, 2, 'com.tekarch.POM.automationTests.AutomationScriptsLogInTest')
-data.setCell(0, 3, 23214);
+data.setCell(0, 3, 37241);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'loginSalesforce2')
 data.setCell(1, 2, 'com.tekarch.POM.automationTests.AutomationScriptsLogInTest')
-data.setCell(1, 3, 20147);
+data.setCell(1, 3, 19889);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'forgotPassword4a')
 data.setCell(2, 2, 'com.tekarch.POM.automationTests.AutomationScriptsLogInTest')
-data.setCell(2, 3, 13322);
+data.setCell(2, 3, 14857);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'forgotPassword4b')
 data.setCell(3, 2, 'com.tekarch.POM.automationTests.AutomationScriptsLogInTest')
-data.setCell(3, 3, 12670);
+data.setCell(3, 3, 13104);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'loginErrorMessage1')
 data.setCell(4, 2, 'com.tekarch.POM.automationTests.AutomationScriptsLogInTest')
-data.setCell(4, 3, 12621);
+data.setCell(4, 3, 13038);
 window.suiteTableData['POMSuite']= { tableData: data, tableDiv: 'times-div-POMSuite'}
 return data;
 }
@@ -322,61 +300,59 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">forgotPassword4a(chrome)</span>
-                <span class="method-start">4891 ms</span>
+                <span class="method-start">13351 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">18213 ms</span>
+                <span class="method-start">28215 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUpBeforeMethod(chrome, [TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.forgotPassword4b(ja...)</span>
-                <span class="method-start">18391 ms</span>
+                <span class="method-start">28322 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">forgotPassword4b(chrome)</span>
-                <span class="method-start">20906 ms</span>
+                <span class="method-start">31920 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">33576 ms</span>
+                <span class="method-start">45024 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUpBeforeMethod(chrome, [TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.loginErrorMessage1(...)</span>
-                <span class="method-start">33719 ms</span>
+                <span class="method-start">45138 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginErrorMessage1(chrome)</span>
-                <span class="method-start">37103 ms</span>
+                <span class="method-start">48536 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">49727 ms</span>
+                <span class="method-start">61574 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUpBeforeMethod(chrome, [TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.loginSalesforce2(ja...)</span>
-                <span class="method-start">49840 ms</span>
+                <span class="method-start">61679 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginSalesforce2(chrome)</span>
-                <span class="method-start">52616 ms</span>
+                <span class="method-start">64942 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">72765 ms</span>
+                <span class="method-start">84831 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUpBeforeMethod(chrome, [TestResult name={null} status=CREATED method=AutomationScriptsLogInTest.rememberMe3(java.la...)</span>
-                <span class="method-start">72880 ms</span>
+                <span class="method-start">84929 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">rememberMe3(chrome)</span>
-                <span class="method-start">76352 ms</span>
+                <span class="method-start">88323 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">100060 ms</span>
+                <span class="method-start">125566 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
